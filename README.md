@@ -1,3 +1,3 @@
 # Subjects
 ## DSA
-1. DataStructure/Linked List.pdf
+1. (Linked List)[DataStructure/Linked List.pdf]
